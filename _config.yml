@@ -6,11 +6,11 @@ url: https://santhoshms47.github.io/
 
 # User settings
 username: Santhosh Kumar
-user_description: I'm a Student, Programmer, Developer and Designer. My objective is to give my best to achieve a challenging task or goal with my academic knowledge and skills. Always open to learn the latest technologies.
-user_title: Student | Programmer
+user_description: I'm a Analyst, Programmer and Developer. My objective is to give my best to achieve a challenging task or goal with my academic knowledge and skills. Always open to learn the latest technologies.
+user_title: Analyst | Developer
 email: santhoshkms47@gmail.com
-twitter_username: santhosh47
-github_username:  santhosh47
+twitter_username: santhoshms47
+github_username:  santhoshms47
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
